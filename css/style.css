@@ -6,12 +6,18 @@
 
 #navbar-container{
   float: left;
+  text-align: center;
 }
 
 #sidebar{
-  
+  background-color: red;
+  position: fixed;
+  right: 0%;
+  width: 20%;
+  height: 100%;
 }
 
-#sidebar-container{
-  
+#sidebar-container ul {
+  padding: 0;
+  list-style-type: 0;
 }
