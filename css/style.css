@@ -1,3 +1,17 @@
 #main-navbar{
+  background-color: blue;
+  position: relative;
+  width: 100%;
+}
+
+#navbar-container{
+  float: left;
+}
+
+#sidebar{
+  
+}
+
+#sidebar-container{
   
 }
