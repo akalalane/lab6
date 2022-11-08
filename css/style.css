@@ -2,11 +2,11 @@
   background-color: blue;
   position: relative;
   width: 100%;
+  text-align: center;
 }
 
 #navbar-container{
-  float: left;
-  text-align: center;
+  position: relative;
 }
 
 #navbar-container ul {
@@ -17,6 +17,13 @@
 #navbar-container ul li {
   float: left;
   display: block;
+}
+
+#navbar-container ul li a {
+  color: #fff;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: underline overline;
 }
 
 #sidebar{
@@ -33,6 +40,17 @@
 }
 
 #sidebar-container ul li {
+  text-align: center;
+}
+
+#sidebar-container ul li a{
+  color: #fff;
+  display: block;
   padding: 15px 0;
+  text-decoration: none;
+}
+
+#sidebar-container ul li a: hover{
+  background-color: #000;
 }
 
