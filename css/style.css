@@ -53,15 +53,12 @@
   list-style-type: none;
 }
 
-#sidebar-container ul li {
-  text-align: center;
-}
-
 #sidebar-container ul li a{
   color: #fff;
   display: block;
   padding: 15px 0;
   text-decoration: none;
+  text-align: center;
 }
 
 #sidebar-container ul li a: hover{
