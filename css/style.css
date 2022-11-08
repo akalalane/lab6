@@ -9,6 +9,11 @@
   text-align: center;
 }
 
+#navbar-container ul {
+  padding: 0;
+  list-style-type: 0;
+}
+
 #sidebar{
   background-color: red;
   position: fixed;
