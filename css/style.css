@@ -11,7 +11,9 @@
 
 #navbar-container ul {
   padding: 0;
+  margin: 0;
   list-style-type: none;
+  overflow: hidden;
 }
 
 #navbar-container ul li {
